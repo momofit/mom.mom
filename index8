@@ -1,0 +1,103 @@
+<html>
+    
+    <html lang="es"> 
+
+
+       <head>   
+           
+           <meta charset="utf-8">
+                   <title>Teraparents Guide PR</title> 
+        
+          
+           <link rel="stylesheet" href="global.css">
+           
+     
+           
+       </head> 
+     
+       <body> 
+           
+           <header style="background:#d9d9d9 ">
+            
+      
+   
+        </header> 
+          <main>
+                         
+                     
+             <img src="SiteImage/logo.png" alt="">
+               
+          
+                  <section id="directorio">
+                      
+     <h2>Directorio Digital de Terapistas en Puerto Rico</h2>
+    
+        </section>
+                   <section id="terapias">
+                       <h3> Las Terapias Disponibles:</h3>
+                       <div >
+                       
+                             <img src="SiteImage/terapia%20del%20habla.jfif" alt="">
+                             <h4>Terapia de Habla y Lenguaje</h4>
+                          
+                           
+                             <img src="SiteImage/terapia%20disfagia.jfif" alt="">
+                             <h4>Terapia de Disfagia</h4>
+                           
+                          
+                             <img src="SiteImage/terapia%20ocupacional.jfif" alt="">
+                             <h4>Terapia Ocupacional y Ocupacional Sensorial</h4>
+                          
+                             <img src="SiteImage/terapia%20fisica.jfif" alt="">
+                             <h4>Terapia Fisica</h4>
+                         
+                             <img src="SiteImage/terapia%20educativa.jpg" alt="">
+                             <h4>Terapia Educativa</h4>
+                          
+                             <img src="SiteImage/terapia%20psicologica.jfif" alt="" >
+                             <h4>Terapia Psicologica</h4>
+                           
+                           
+                       </div>
+              </section>     
+            <br>
+                <br>
+            <footer class="main-footer">
+                            <div class="container container--flex"></div>
+                               <br>               
+                                    <br>
+                                <div >
+                                    
+                                     <h2>Dirección</h2>
+                                     <p>Bo.Navarro Sec. Cielito 506 Humacao,PR 0000</p>
+                                    <p >telefono:1-800-123-4567</p>  </div>
+                                  <div> 
+                             <form action="form.php" method="post">
+   <fieldset> 
+    <legend> CONTACTANOS</legend>
+    <P>Importante llenar todos los encasillados.</P>
+    <label id="name">Name: </label>
+    <input type="text" name="Name" placeholder="Name">
+    <label id="Email">Email:</label>
+     <input type="text" name="Email" placeholder="Email">
+       <br>
+       <br>
+    <label id="comments">Message:</label>
+         <textarea cols="25" rows="5" name=required></textarea>
+       <br>
+       <br>
+        <input type="button" value="Submit">
+     <input type="button" value="Start Over">  
+       </fieldset></form>
+                </div> 
+              
+              </footer>
+                  
+           </main>
+           
+                
+        
+
+     </body> 
+    </html>
+    
